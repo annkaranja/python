@@ -80,7 +80,12 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> n = [[1,2,3],[4,5,6],[7,8,9]]
 >>> n
 [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
->>> 
+>>> n =[[1,2,3],[4,5,6],[7,8,9]]
+flat=[]
+for n in in nested:
+        for m in n
+        0=m
+        flat,append(0)
 >>> m = [1,2,3,4,5,6,7,8,9]
 >>> m
 [1, 2, 3, 4, 5, 6, 7, 8, 9]
